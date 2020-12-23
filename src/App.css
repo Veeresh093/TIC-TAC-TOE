@@ -1,0 +1,63 @@
+body {
+  background-color: #000000;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 15px;
+}
+
+.box {
+  width: auto;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.icon {
+  font-size: 35px;
+  color: #111111;
+}
+
+.title {
+  font-size: 60px;
+  text-align: center;
+  color: aqua;
+  font-family: cursive, fantasy;
+}
+
+/* "Courier New", monospace */
+
+.red {
+  font-size: 35px;
+  color: #f71c0cb6;
+}
+
+.green {
+  font-size: 35px;
+  color: #0aec2f;
+}
+
+.empty {
+  font-size: 35px;
+  color: #0aec2f;
+}
+
+.bigp2 {
+  font-size: 45px;
+  color: #f71c0cb6;
+}
+
+.bigp1 {
+  font-size: 45px;
+  color: #0aec2f;
+}
+
+.footer {
+  margin-top: 50px;
+}
+
+.card .box {
+  color: #e08e12;
+}
