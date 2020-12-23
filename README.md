@@ -1,3 +1,9 @@
+# TIC-TAC-TOE app
+
+Developed with the help of reactJS and can be loaded with progressive web app using netlify host.
+
+To see how it works. Click on link : https://romantic-knuth-7039d0.netlify.app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
